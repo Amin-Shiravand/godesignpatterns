@@ -6,6 +6,8 @@ Welcome to the **Design Patterns in Go** repository! This collection showcases v
 
 - **Singleton**: Implement a thread-safe singleton pattern(Basic and Generic version), ensuring a class has only one instance.
 
+- **Builder Pattern Example(Email)**: The Builder pattern allows you to construct complex objects step by step while separating the construction process from the object's representation.
+
 [//]: # (- **Factory Method**: Create objects using a factory method, allowing flexible object creation.)
 
 [//]: # (- **Observer**: Implement the observer pattern to establish a one-to-many dependency between objects.)
