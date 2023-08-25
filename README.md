@@ -8,7 +8,7 @@ Welcome to the **Design Patterns in Go** repository! This collection showcases v
 
 - **Builder Pattern Example(Email)**: The Builder pattern allows you to construct complex objects step by step while separating the construction process from the object's representation.
 
-[//]: # (- **Factory Method**: Create objects using a factory method, allowing flexible object creation.)
+- **Factory Pattern(Product)**: A pattern that provides an interface for creating instances of a class, with its subclasses deciding which class to instantiate.
 
 [//]: # (- **Observer**: Implement the observer pattern to establish a one-to-many dependency between objects.)
 
